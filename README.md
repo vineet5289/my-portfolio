@@ -1,1 +1,1 @@
-https://github.com/vineet5289/my-portfolio.git
+Homa page url: https://vineet5289.github.io/my-portfolio/
